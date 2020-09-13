@@ -1,5 +1,10 @@
 apiVersion: v1
-appVersion: "v0.14.51"
+appVersion: 1.9.0
 description: A Helm chart for Kubernetes
 name: syncthing
-version: 0.2.1
+version: 0.3.0
+home: https://github.com/jeizsm/helm-chart-syncthing
+maintainers:
+  - name: jeizsm
+    email: jeizsm@gmail.com
+    url: https://github.com/jeizsm
